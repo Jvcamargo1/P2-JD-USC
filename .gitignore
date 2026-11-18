@@ -112,3 +112,10 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Backups e temporarios do desenvolvimento
+Backup_Fase3/
+Backup_ModoInfinito/
+Apresentacao/
+*.antes_*
+Phase2.txt.*

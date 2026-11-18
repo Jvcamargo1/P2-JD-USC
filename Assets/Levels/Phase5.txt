@@ -1,0 +1,25 @@
+// FASE 5 - COVIL DO DRAGAO. Sem onda de destruicao: arena com o chefe (colocado na cena, x da
+// coluna 32), portao na coluna 38 e, depois dele, a sala da Maca Dourada Gigante (coluna 47).
+@chao=14
+@estiloIlha=N
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CC                                                    CC
+CC                                                    CC
+CC                                                    CC
+CC                                                    CC
+CC                                                    CC
+CC                                                    CC
+CC  P                                                 CC
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+........................................................

@@ -1,0 +1,27 @@
+// FASE 1 - mapa de texto (1 caractere = 1 unidade)
+// #  chao verde   O  chao laranja   R  chao rosa   (preenchem para baixo)
+// B  bloco marrom   ^  espinhos (par)   S  serra   E  inimigo   F  fruta   K  bandeira   P  jogador
+// 1 2 3  caixa (1, 2 ou 3 batidas)   M  plataforma movel   V  movel vertical   Q  plataforma que cai   T  trampolim
+// F  maca (100)   k  kiwi (250)   X  melancia (1000, uma por jogo)
+// H  casa da chegada (porta), depois da bandeira
+// espaco = vazio (buraco se nao houver chao na coluna)
+// a ultima linha (pontos) marca o fundo do mapa: o chao e preenchido ate ela
+@chao=12
+                                                                                                                                                                         
+                                                                                                                                                                         
+                                                                                                                                                                         
+                                                                                                                                                                         
+                                                                                                                                                   X                     
+                                                                                                                                                 kkGkk
+                                                                                                                                                 BBBBB                   
+                                         k                       2  FFFFF                                                         F                                      
+                                  kk    k k      F        k      FF    E        k                    k      F                    F F                                     
+                         FF      BBB            F F           F     #######               FF  FF    kGk    F F         k  k            E         FF
+                        F  F                 1        B         ####                E                              B             ^^^ ######           3                  
+                     P      G B      E          ^^^  BB     ####           ####   ######  ^^  S      M     ^^^  E BB   Q  Q  ########       T  E ^^       K     H
+########################################   ##############                               ##########       OOOOOOOOOOOO                      ##############################
+                                                                                                                                                                         
+                                                                                                                                                                         
+                                                                                                                                                                         
+                                                                                                                                                                         
+.........................................................................................................................................................................

@@ -1,0 +1,31 @@
+// FASE 2 (deserto) - mapa de texto (1 caractere = 1 unidade)
+// #  chao verde   O  chao laranja   R  chao rosa/areia   (preenchem para baixo)
+// B  bloco marrom   ^  espinhos (par)   S  serra   E  inimigo   Z  inimigo explosivo   F  maca   k  kiwi   X  melancia
+// f  chama (cubra com blocos B 2 un acima: o teto impede o pulo por cima)   1 2 3  caixa (1, 2 ou 3 batidas)   M  plataforma movel   V  movel vertical   Q  plataforma que cai
+// T  trampolim   K  bandeira   H  casa da chegada (porta)   P  jogador
+// espaco = vazio (buraco se nao houver chao na coluna)
+// a ultima linha (pontos) marca o fundo do mapa: o chao e preenchido ate ela
+// I  ilha flutuante (solida, nao preenche para baixo)   b  banana (fruta extra de 100)   as diretivas @fruta... trocam so o visual das frutas
+// RELEVO: @chao = fundo do vale; largada 2, mesa 4, torre 6. Abismo x=65..98 (ilha fixa, balsa movel, ilha do fogo, 2 que caem); buraco do trampolim x=111..120 com ponte; pouso da torre x=146..155
+@fruta100=Fruit_Orange
+@fruta100b=Fruit_Bananas
+@fruta250=Fruit_Strawberry
+@chao=14
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                   bkkkkkb                                                                      
+                                                                                                                   BBBBBBB        kkkk k3                                                       
+                                             k                                                                              k k              k  k                                               
+                                 bF       1 k k   BB                                       b                                 b G E    Z
+                             b F               b  kk                            BB 2  F     G   F                         F    RRRRRRRRRRRR  Q  Q                G    b
+                         b F     ^^ G  Z          ff  E F b           b FGb   k kk k                         b              RRR                            Z     BB  F F
+                       F     RRRRRRRRRRRRRRR   RRRRRRRRR    F      k k          ff       Q    Q           F   T          RRR                      RRRRRRRRRR     kk
+                     P   RRRR                           RRR              M   IIIIIIII                  b    RRR                                             RRR  ff  ^^^   K     H
+RRRRRRRRRRRRRRRRRRRRRRRRR                                  RRR     III                                  ZRRR                                                   RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+                                                              RRR                                  RRRRRR                                                                                       
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+                                                                                                                                                                                                
+................................................................................................................................................................................................
