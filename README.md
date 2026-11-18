@@ -44,7 +44,7 @@ Como o executável não é assinado, o Windows pode bloqueá-lo na primeira exec
    git clone https://github.com/Jvcamargo1/P2-JD-USC.git
    ```
 
-3. No Unity Hub, use Add > Add project from disk e selecione a pasta clonada.
+3. No Unity Hub, use Add > Add project from disk e selecione a pasta clonada..
 4. Abra `Assets/Scenes/MainMenu.unity` e aperte Play.
 
 A primeira abertura reconstrói a pasta `Library/` e leva alguns minutos.
