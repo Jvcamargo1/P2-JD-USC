@@ -2,7 +2,7 @@
 
 Jogo de plataforma 2D feito em Unity para a P2 da disciplina Desenvolvimento de Jogos Digitais, do curso de Ciência da Computação da USC, com o professor Luis Filipe Grael Tinos.
 
-O jogador controla o Sapo Wilson por cinco fases e precisa coletar 30 maçãs douradas para chegar ao reduto de um dragão. Nas três primeiras fases o cenário desaba atrás do jogador. A última fase é a luta contra o chefe.
+O jogador controla o Sapo Wilson por cinco fases e precisa coletar 30 maçãs douradas para chegar ao reduto de um dragão. Nas quatro primeiras fases o cenário desaba atrás do jogador. A última fase é a luta contra o chefe.
 
 ## Integrante
 
@@ -103,7 +103,6 @@ Vários arquivos de som começavam com até meio segundo de silêncio. O gerenci
 | Maçã, banana ou laranja | 100 |
 | Kiwi ou morango | 250 |
 | Maçã dourada | 500 |
-| Melão | 1000 |
 | Inimigo derrotado | 200 |
 | Dragão derrotado | 1000 |
 
@@ -123,6 +122,7 @@ Arte:
 - 2D Mega Pack, da Brackeys
 - Free Platform Game Assets, da Bayat Games
 - 2D Cartoon Parallax Background
+- Ilustração do fundo do menu principal: gerada com inteligência artificial, no ChatGPT
 
 Fonte: Press Start 2P.
 
