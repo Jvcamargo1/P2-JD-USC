@@ -16,7 +16,7 @@ O projeto foi feito individualmente, em acordo com o professor.
 
 Requisito: Windows 10 ou 11, 64 bits.
 
-O executável não está no repositório, porque a pasta `Build/` está no `.gitignore`. Ele é distribuído em um arquivo .zip separado.
+O executável pode ser encontrado nas releases do repositorio ou através deste link: https://github.com/Jvcamargo1/P2-JD-USC/releases/tag/Build
 
 1. Extraia o .zip inteiro para uma pasta.
 2. Execute `SapoWilson.exe`.
@@ -41,7 +41,7 @@ Como o executável não é assinado, o Windows pode bloqueá-lo na primeira exec
 2. Clone o repositório:
 
    ```
-   git clone https://github.com/Jvcamargo1/Outros-JD-USC.git
+   git clone https://github.com/Jvcamargo1/P2-JD-USC.git
    ```
 
 3. No Unity Hub, use Add > Add project from disk e selecione a pasta clonada.
